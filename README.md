@@ -1,7 +1,7 @@
 ### Learning how to read and write by example
 #### mnist-digit-recognition
-Learn how to read digits.  
+Train a CNN to recognize digits from the MNIST digit dataset.  
   
   
 #### mnist-digit-generation
-Learn how to write digits.  
+Train a GAN to generate digits using the MNIST digit dataset.  
